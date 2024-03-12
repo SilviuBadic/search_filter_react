@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//silviubadic.github.io/search_filter_react/static/css/main.91b89adf.css",
-    "main.js": "/https//silviubadic.github.io/search_filter_react/static/js/main.613c58c3.js",
-    "static/js/453.56aa4e18.chunk.js": "/https//silviubadic.github.io/search_filter_react/static/js/453.56aa4e18.chunk.js",
-    "index.html": "/https//silviubadic.github.io/search_filter_react/index.html",
-    "main.91b89adf.css.map": "/https//silviubadic.github.io/search_filter_react/static/css/main.91b89adf.css.map",
-    "main.613c58c3.js.map": "/https//silviubadic.github.io/search_filter_react/static/js/main.613c58c3.js.map",
-    "453.56aa4e18.chunk.js.map": "/https//silviubadic.github.io/search_filter_react/static/js/453.56aa4e18.chunk.js.map"
+    "main.css": "/search_filter_react/static/css/main.91b89adf.css",
+    "main.js": "/search_filter_react/static/js/main.e26b0333.js",
+    "static/js/453.56aa4e18.chunk.js": "/search_filter_react/static/js/453.56aa4e18.chunk.js",
+    "index.html": "/search_filter_react/index.html",
+    "main.91b89adf.css.map": "/search_filter_react/static/css/main.91b89adf.css.map",
+    "main.e26b0333.js.map": "/search_filter_react/static/js/main.e26b0333.js.map",
+    "453.56aa4e18.chunk.js.map": "/search_filter_react/static/js/453.56aa4e18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91b89adf.css",
-    "static/js/main.613c58c3.js"
+    "static/js/main.e26b0333.js"
   ]
 }
